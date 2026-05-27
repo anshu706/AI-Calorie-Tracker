@@ -1,0 +1,10 @@
+{
+  "name": "NutriSnap",
+  "description": "Mobile-first AI-powered calorie tracking app using Gemini vision. Instantly log meals from photos.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
