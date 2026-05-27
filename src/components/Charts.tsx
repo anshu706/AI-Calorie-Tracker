@@ -35,7 +35,7 @@ export function Charts() {
   };
 
   return (
-    <div className="flex-1 w-full max-w-lg mx-auto pb-24 overflow-y-auto">
+    <div className="flex-1 w-full max-w-lg mx-auto pb-24">
       <div className="px-6 pt-10 pb-6">
         <h1 className="text-3xl font-bold text-white mb-2">History</h1>
         <p className="text-gray-400 font-medium">Your 7-day overview</p>

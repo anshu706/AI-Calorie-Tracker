@@ -15,7 +15,7 @@ export function Dashboard() {
   const waterCups = Math.floor(water / 8);
 
   return (
-    <div className="flex-1 w-full max-w-lg mx-auto pb-24 overflow-y-auto">
+    <div className="flex-1 w-full max-w-lg mx-auto pb-24">
       <div className="px-6 pt-10 pb-6">
         <h1 className="text-3xl font-bold text-white mb-2">Today</h1>
         <p className="text-gray-400 font-medium">Keep up the great work!</p>
